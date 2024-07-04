@@ -4,4 +4,4 @@ Projeto criado junto com a plataforma da Alura, com o objetivo de criar site res
 
 visualize como ficou o site clicando no link:
 
-<a href="https://mobile-responsivo.vercel.app" target="_blank">Veja como ficou</a>
+<a href="https://alurabook-seven-xi.vercel.app/" target="_blank">Veja como ficou</a>
